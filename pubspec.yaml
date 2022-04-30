@@ -1,11 +1,11 @@
 name: circular
-description: pick and display data in circular slider 
-version: 0.0.3
+description: flutter package built to pick and display data in circular sliders making it easy to work with values in a specific range 
+version: 0.0.5
 homepage: https://github.com/Mahmoudgarwallane/circular_slider
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.14.0 <3.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
