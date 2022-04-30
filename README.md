@@ -22,7 +22,7 @@
 
 #### add the package
 ```bash
-flutter pub add circular_slider
+flutter pub add circular
 ```
 #### import the package
 
