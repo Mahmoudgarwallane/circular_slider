@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:circular_slider/circular.dart';
+import 'package:circular/circular.dart';
 
 void main() {
   runApp(const MaterialApp(
@@ -7,7 +7,7 @@ void main() {
     home: Scaffold(body: Center(child: Home())),
   ));
 }
-
+ 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
 
